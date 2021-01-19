@@ -1,0 +1,4 @@
+payload:  
+  # > ample ins block
+  - IP-CIDR,50.116.38.191/32
+  - IP-CIDR,159.203.227.87/32
